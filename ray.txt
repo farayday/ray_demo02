@@ -1,1 +1,2 @@
 hello from ray
+goodbye from Ray
